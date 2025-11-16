@@ -1,6 +1,6 @@
+//2401010045-Java_Lab.Assignment-1
+
 A simple Java Student Record System that uses ArrayList to store student data. Users can add student details through console input and view all stored records. Each student has name, roll number, course, marks, and a grade calculated from marks. Provides a menu-driven interface for operations.
-
-
 # 🧾 Student Record Management System (Java)
 
 ## 📘 Project Overview
